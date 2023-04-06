@@ -9,9 +9,9 @@ About me:
 - I teached in a college for seven years;
 - I've been dedicating myself to learning software development for 3 years. 
 - I hope to become a software developer soon and make it my profession forever.
-- ⚡ How to reach me: heidegomes@gmail.com
+-  How to reach me: heidegomes@gmail.com
 -->
 
-[![LinkedIn Badge](https://img.shields.io/badge/-[Texto do badge]-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[Link perfil no LinkedIn])]([Link perfil no LinkedIn])
+### Technologies
 
-<a href="[Link perfil no LinkedIn]"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="[CSS3]"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
