@@ -1,30 +1,39 @@
-Olá! Me chamo Heide, moro em Campo Grande - MS, mas vivi 18 anos no Rio de Janeiro e fui criada numa cidade do interior do Rio Grande do Sul. :airplane: 🛩️
 
-### Sobre mim :woman-tipping-hand:
-- Estou em transição de carreira, minha primeira formação é em Moda :dress:, atuei muitos anos como Modelista e professora universitária :mortar_board:;
-- Estou finalizando o curso de desenvolvimento web da trybe :rocket:;
-- :green_book: No curso eu desenvolvi diversos projetos de Front End com JAVASCRIPT, HTML, CSS, REACT, React Native;
-- :blue_book: E outros tantos de Back End com Docker, MySQL, Node.js, TypeScript, Express e Sequelize;
-- :orange_book:  MSC (Model, Service, Controller) architecture, POO;
-- :closed_book: testes em Jest e Mocha;
-- Meus hobbies são: ler clássicos :books:, nadar :ocean: e cozinhar :spaghetti:;
-- ⌛Pode contar sempre comigo: vou chegar sempre na hora marcada e entregar as tarefas no prazo :wink:;
--                        
+<div align="justify">
+ ✈️   Olá! Me chamo <strong>Heide</strong>, moro em Campo Grande - MS, mas vivi 18 anos no Rio de Janeiro e fui criada numa cidade do interior do Rio Grande do Sul.   Atualmente estou estudando para fazer minha transição de carreira. 🛩️
+</div>
 
+## Sobre mim 💁‍♀️
 
-### Tecnologias e Ferramentas
+<ul align="justify">
+<li> 👗  Minha primeira formação é em Moda, atuei muitos anos como Modelista digital e professora universitária :mortar_board:;</li>
+<li> 🚀 Estou finalizando o curso de desenvolvimento web na Trybe ;</li>
+<li> 👩‍💻 No curso eu desenvolvi diversos projetos de Front End com JavaScript, HTML, CSS, REACT, React Native. E outros tantos de Back End com Docker, MySQL, Node.js, TypeScript, Express e Sequelize. Aprendi arquitetura MSC (Model, Service, Controller) e Programação Orientada a Objeto. Além de fazer testes com Jest e Mocha;</li>
+<li> 🌱 Meus hobbies são: ler clássicos :books:, nadar :ocean: e cozinhar :spaghetti:;</li>
+<li> 😉 Pode contar sempre comigo: vou chegar sempre na hora marcada e entregar as tarefas no prazo;</li>
+<li> 📫 Por favor, envie um email para heidegomes@gmail.com para me encontrar.</li>                    
+</ul>
 
-- <a href="[GitHub]"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-- <a href="[CSS3]"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
-- <a href="[HTML5]"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
-- <a href="[JavaScript]"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
-- <a href="[React]"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-" /></a>
-- <a href="[ReactRouter]"><img alt="ReactRouter" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" /></a>
-- <a href="[Redux]"><img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white
-" /></a>
-- <a href="[Docker]"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white
-" /></a>
-- <a href="[MySql]"><img alt="MySql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
-" /></a>
+## Tecnologias e Ferramentas
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> 
+  <img align="center" alt="Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" alt="Html" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
+  <img align="center" alt="Css" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="TypeScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+  <img align="center" alt="Redux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
+  <img align="center" alt="Jest" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
+  <img align="center" alt="MySql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
+  <img align="center" alt="NodeJs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Express" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
+  <img align="center" alt="Mocha" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg">
+  <img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
+  <img align="center" alt="Sequelize" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-plain-wordmark.svg">
+</div>
+
+## GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heidegomes&show_icons=true&theme=dark)
 
