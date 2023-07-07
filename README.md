@@ -1,6 +1,6 @@
 
 <div align="justify">
- ✈️   Olá! Me chamo <strong>Heide</strong>, moro em Campo Grande - MS, mas vivi 18 anos no Rio de Janeiro e fui criada numa cidade do interior do Rio Grande do Sul.   Atualmente estou estudando para fazer minha transição de carreira. 🛩️
+ ✈️   Olá! Me chamo Heide, moro em Campo Grande - MS, mas vivi 18 anos no Rio de Janeiro e fui criada numa cidade do interior do Rio Grande do Sul. Atualmente estou estudando para fazer minha transição de carreira para atuar como Desenvolvedora Full Stack. 🛩️
 </div>
 
 ## Sobre mim 💁‍♀️
