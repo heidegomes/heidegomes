@@ -35,5 +35,20 @@
 </div>
 
 ## GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heidegomes&show_icons=true&theme=dark)
+<table>
+ <tr>
+  <td> 
+    <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=heidegomes&show_icons=true&theme=dark" />
+  </a>
+</td>
+
+<td>
+   <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heidegomes&layout=compact&theme=dark" />
+  </a>
+</td>
+
+</tr>
+</table>
 
