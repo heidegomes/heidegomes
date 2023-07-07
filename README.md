@@ -1,18 +1,18 @@
-### Hello!
+Olá! Me chamo Heide, moro em Campo Grande - MS, mas vivi 18 anos no Rio de Janeiro e fui criada numa cidade do interior do Rio Grande do Sul. :airplane: 🛩️
 
-About me:
+### Sobre mim :woman-tipping-hand:
+- Estou em transição de carreira, minha primeira formação é em Moda :dress:, atuei muitos anos como Modelista e professora universitária :mortar_board:;
+- Estou finalizando o curso de desenvolvimento web da trybe :rocket:;
+- :green_book: No curso eu desenvolvi diversos projetos de Front End com JAVASCRIPT, HTML, CSS, REACT, React Native;
+- :blue_book: E outros tantos de Back End com Docker, MySQL, Node.js, TypeScript, Express e Sequelize;
+- :orange_book:  MSC (Model, Service, Controller) architecture, POO;
+- :closed_book: testes em Jest e Mocha;
+- Meus hobbies são: ler clássicos :books:, nadar :ocean: e cozinhar :spaghetti:;
+- ⌛Pode contar sempre comigo: vou chegar sempre na hora marcada e entregar as tarefas no prazo :wink:;
+-                        
 
-- I’m currently studying Full-Stack web development at @Trybe school;
-- I’m currently learning JAVASCRIPT, HTML, CSS, REACT, React Native, Docker and MySQL;
-- The next learnings will be: Sequelize, MSC (Model, Service, Controller) architecture, POO and Typescript; 
-- I worked with  Cad for Pattern Making for 10 years in fashion industry;
-- I teached in a college for seven years;
-- I've been dedicating myself to learning software development for 3 years. 
-- I hope to become a software developer soon and make it my profession forever.
--  How to reach me: heidegomes@gmail.com
--->
 
-### Technologies
+### Tecnologias e Ferramentas
 
 - <a href="[GitHub]"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 - <a href="[CSS3]"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
