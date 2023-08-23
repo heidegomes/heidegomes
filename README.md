@@ -7,8 +7,9 @@
 
 <ul align="justify">
 <li> 👗  Minha primeira formação é em Moda, atuei muitos anos como Modelista digital e professora universitária :mortar_board:;</li>
-<li> 🚀 Estou finalizando o curso de desenvolvimento web na Trybe ;</li>
+<li> 🚀 Estou finalizando o curso de desenvolvimento web na Trybe e cursando o 2º período de Análise e Desenvolvimento de Sistemas;</li>
 <li> 👩‍💻 No curso eu desenvolvi diversos projetos de Front End com JavaScript, HTML, CSS, REACT, React Native. E outros tantos de Back End com Docker, MySQL, Node.js, TypeScript, Express e Sequelize. Aprendi arquitetura MSC (Model, Service, Controller) e Programação Orientada a Objeto. Além de fazer testes com Jest e Mocha;</li>
+<li> 🐍 Atualmente estou me dedicando a aprender uma nova linguagem: Python. E estou gostando muito dela.
 <li> 💙 Meus hobbies são: ler clássicos :books:, nadar :ocean: e cozinhar :spaghetti:;</li>
 <li> 😉 Pode contar sempre comigo: vou chegar sempre na hora marcada e entregar as tarefas no prazo;</li>
 <li> 📫 Por favor, envie um email para heidegomes@gmail.com para me encontrar.</li>                    
