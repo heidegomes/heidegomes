@@ -1,15 +1,16 @@
 
 <div align="justify">
- ✈️   Olá! Me chamo Heide, moro em Campo Grande - MS, mas vivi 18 anos no Rio de Janeiro e fui criada numa cidade do interior do Rio Grande do Sul. Atualmente estou estudando para fazer minha transição de carreira para atuar como Desenvolvedora Full Stack. 🛩️
+ ✈️   Olá! Me chamo Heide, moro em Campo Grande - MS, mas vivi 18 anos no Rio de Janeiro e fui criada numa cidade do interior do Rio Grande do Sul. Em janeiro de 2024 conclui minha transição de carreira após finalizar o curso de desenvolvimento web da Trybe e ser contratada pela Mercloud. 🛩️
 </div>
 
 ## Sobre mim 💁‍♀️
 
 <ul align="justify">
 <li> 👗  Minha primeira formação é em Moda, atuei muitos anos como Modelista digital e professora universitária :mortar_board:;</li>
-<li> 🚀 Em Novemebro de 2023 finalizei o Curso de Desenvolvimento Web na Trybe e cursando o 2º período de Análise e Desenvolvimento de Sistemas;</li>
+<li> 🚀 Em Novemebro de 2023 finalizei o Curso de Desenvolvimento Web na Trybe e o 2º período da faculdade de Análise e Desenvolvimento de Sistemas na Estácio;</li>
 <li> 👩‍💻 No curso eu desenvolvi diversos projetos de Front End com JavaScript, HTML, CSS, REACT, React Native. E outros tantos de Back End com Docker, MySQL, Node.js, TypeScript, Express e Sequelize. Aprendi arquitetura MSC (Model, Service, Controller) e Programação Orientada a Objeto. Além de fazer testes com Jest e Mocha;</li>
 <li> 🐍 Na Trybe escolhi como eletiva a linguagem Python, onde desenvolvi projetos de raspagem de dados e APIs com Django e DRF (Django Rest Framework)
+<li> 👷‍♀️ Na mercloud estou trabalhando com Next e GraphQl
 <li> 💙 Meus hobbies são: ler clássicos :books:, nadar :ocean: e cozinhar :spaghetti:;</li>
 <li> 😉 Pode contar sempre comigo: vou chegar sempre na hora marcada e entregar as tarefas no prazo;</li>
 <li> 📫 Por favor, envie um email para heidegomes@gmail.com para me encontrar.</li>                    
